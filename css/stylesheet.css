@@ -80,12 +80,11 @@ body{
   }
 
   @media only screen and (max-width:768px) {
-    #headshot{
-      
-      display: block;
-     
+
+    #heading {
+    display :block;
     }
-    
+   
     .main{
       display: block; 
       flex-direction: row;
